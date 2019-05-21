@@ -22,7 +22,7 @@ You will have to defend your project in front of a jury. During this exam, you w
 - Develop problems encountered and how you solved them
 - Conclude
 
-This oral exam will take place on __Monday 10th, June 2019 between 10am and 1pm__. You will have __20min__ to defend your project, and the jury will have __20min__ to ask your group questions.
+This oral exam will take place on __Tuesday 11th, June 2019 between 10am and 1pm__. You will have __15min__ to defend your project, and the jury will have __15min__ to ask your group questions.
 
 ## Seeking help
 Each group is allowed to ask five questions to teachers. To do this, email directly one of us, or message us on the chat.
